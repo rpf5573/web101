@@ -1,0 +1,64 @@
+* {
+	box-sizing:border-box;
+}
+
+body {
+	font-size: 12px;
+	line-height:30px;
+	color:#777;
+	background:#0CF;
+}
+
+.컨테이너 {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.편지지 {
+	background:#F9F9F9;
+	padding:25px;
+	margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.편지지 > h3 {
+	color: #F96;
+	display: block;
+	font-size: 30px;
+	font-weight: 400;
+}
+
+.편지지 > h4 {
+	margin:5px 0 15px;
+	display:block;
+	font-size:13px;
+}
+
+.편지지 .row {
+  margin-bottom: 10px;
+	width: 100%;
+}
+
+.편지지 input,
+.편지지 textarea {
+  width: 100%;
+  padding: 10px;
+}
+
+.편지지 textarea {
+	height:100px;
+	max-width:100%;
+  resize:none;
+}
+
+.편지지 #편지보내기버튼 {
+	cursor:pointer;
+	width:100%;
+	border:none;
+	background:#0CF;
+	color:#FFF;
+	margin:0 0 5px;
+	padding:10px;
+	font-size:15px;
+}

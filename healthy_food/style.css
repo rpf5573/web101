@@ -1,0 +1,42 @@
+/* Layout */
+body {
+  height: 100%;
+	background: #fff;
+	font-size: 18px;
+}
+.header, .navigation, .content, .footer {
+	padding: 10px;
+	margin: 0;
+	border: 2px solid #fff;
+	border-radius: 10px;
+	color: #fff;
+}
+.header {
+	background: dodgerblue;
+  text-align: center;
+}
+.wrapper {
+  display: flex;
+}
+.navigation {
+  width: 200px;
+	background: orange;
+}
+.navigation a {
+  display: block;
+  padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+  color: #fff;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(255,255,255,.3);
+}
+.content {
+  flex: 1;
+	background: hotpink;
+}
+.footer {
+	background: olivedrab;
+  text-align: center;
+}
