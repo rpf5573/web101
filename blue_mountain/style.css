@@ -1,0 +1,92 @@
+html, body {
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+img {
+	width: 100%;
+}
+
+.flex-contents {
+  height: 100%;
+}
+
+.header {
+	display: flex;
+	align-items: center;
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	background: #005f71;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.header a {
+	color: white;
+	text-decoration: none;
+}
+
+.header > .logo {
+	width: 200px;
+}
+
+.header > .navbar {
+	flex: 1;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.header > .navbar > ul {
+	display: flex;
+	list-style: none;
+}
+
+.header > .navbar > ul > li {
+	font-size: 20px;
+	padding-left: 20px;
+}
+
+main > .hero {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/79266/BA1yLjNnQCI1yisIZGEi_2013-07-16_1922_IMG_9873.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 500px;
+}
+
+main > .hero > h2 {
+	color: white;
+	font-size: 60px;
+}
+
+main > .news {
+	display: flex;
+	justify-content: space-between;
+	padding-top: 20px;
+	background: rgba(0, 95, 113, 0.625);
+  color: white;
+	text-align: center;
+}
+
+main > .news > article {
+	width: 33.3%;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.logo h1 {
+	margin: 0;
+}
+
+footer {
+	padding: 20px;
+	background: rgba(0, 95, 113, 0.5);
+  letter-spacing: 3px;
+  text-align: center;
+  text-transform: uppercase;
+}
