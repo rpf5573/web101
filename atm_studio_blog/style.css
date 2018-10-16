@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+header {
+  background-image: url( "https://res.cloudinary.com/dntcupoxe/image/upload/v1535451573/b0531a4633b860f7ea6a4bdac7_tvx1y4.jpg" );
+  background-repeat: none;
+  background-size: cover;
+  height: 500px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-bottom: 60px;
+}
+.center-box {
+  text-align: center;
+  border: 1px solid white;
+  color: white;
+  padding: 60px;
+}
+main {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.image-container {
+  margin-bottom: 40px;
+}
+.image-container > img {
+  width: 100%;
+}

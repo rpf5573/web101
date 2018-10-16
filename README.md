@@ -10,4 +10,4 @@ Study HTML, CSS, Javascript etc
 ### 폴더를 다운받는 방법
 1. 크롬을 연다
 2. (GitZip)[https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn]을 확장프로그램으로 추가한다
-3. 다운받고자 하는 폴더를 더블클릭한다
+3. 다운받고자 하는 폴더의*옆 빈공간*을 더블클릭한다
