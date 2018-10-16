@@ -1,0 +1,37 @@
+body {
+  background: #ecf0f1;
+}
+p {
+  color: #666;
+}
+.제목컨테이너 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+  
+  background: #e74c3c;
+  font-size: 40px;
+  text-align: center;
+  color: white;
+}
+.고양이들 {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.고양이컨테이너 {
+  width: 32.5%;
+  display: inline-block;
+  border: 1px solid black;
+  background-color: white;
+}
+.썸네일 > img {
+  width: 100%;
+}
+.소개 {
+  padding: 10px;
+}
+.소개 > h2 {
+  text-align: center;
+  color: #e74c3c;
+}
