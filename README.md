@@ -1,5 +1,5 @@
 # web101
-Study HTML, CSS, Javascript etc
+Web을 공부할때 clone할만한 작은 프로젝트들을 모아놨습니다
 
 # 공부 순서
 1. 기초를 공부한다
