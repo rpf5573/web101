@@ -1,7 +1,7 @@
 # web101
 Study HTML, CSS, Javascript etc
 
-공부 순서
+# 공부 순서
 1. 기초를 공부한다
 2. 자신의 난이도에 맞는 프로젝트를 clone한다
 3. 다시 기초를 공부한다
