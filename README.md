@@ -13,7 +13,7 @@ Web을 공부할때 clone할만한 작은 프로젝트들을 모아놨습니다
 4. 보고 따라 만든다
 
 # 기타등등
-### 폴더를 다운받는 방법
+### 폴더를 다운받는 방법(참고 : [동영상](https://drive.google.com/open?id=1x8rBvjJRYKhcyTWvmM9SWAT8XgEDFpA6))
 1. 크롬을 연다
 2. [GitZip](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn) 을 확장프로그램으로 추가한다
 3. 다운받고자 하는 폴더의 **옆 빈공간**을 더블클릭한다
